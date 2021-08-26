@@ -16,4 +16,6 @@ To launch the environment:
 
 `jupyter notebook`
 
+Or you can run it in VS Code with the Jupyter extension.
+
 
